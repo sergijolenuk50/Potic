@@ -1,0 +1,48 @@
+C:\Users\User\source\repos\Console.Thread\Console.Thread\bin\Debug\net8.0\Console.Thread.exe
+C:\Users\User\source\repos\Console.Thread\Console.Thread\bin\Debug\net8.0\Console.Thread.deps.json
+C:\Users\User\source\repos\Console.Thread\Console.Thread\bin\Debug\net8.0\Console.Thread.runtimeconfig.json
+C:\Users\User\source\repos\Console.Thread\Console.Thread\bin\Debug\net8.0\Console.Thread.dll
+C:\Users\User\source\repos\Console.Thread\Console.Thread\bin\Debug\net8.0\Console.Thread.pdb
+C:\Users\User\source\repos\Console.Thread\Console.Thread\obj\Debug\net8.0\Console.Thread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Console.Thread\Console.Thread\obj\Debug\net8.0\Console.Thread.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Console.Thread\Console.Thread\obj\Debug\net8.0\Console.Thread.AssemblyInfo.cs
+C:\Users\User\source\repos\Console.Thread\Console.Thread\obj\Debug\net8.0\Console.Thread.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Console.Thread\Console.Thread\obj\Debug\net8.0\Console.Thread.dll
+C:\Users\User\source\repos\Console.Thread\Console.Thread\obj\Debug\net8.0\refint\Console.Thread.dll
+C:\Users\User\source\repos\Console.Thread\Console.Thread\obj\Debug\net8.0\Console.Thread.pdb
+C:\Users\User\source\repos\Console.Thread\Console.Thread\obj\Debug\net8.0\Console.Thread.genruntimeconfig.cache
+C:\Users\User\source\repos\Console.Thread\Console.Thread\obj\Debug\net8.0\ref\Console.Thread.dll
+D:\3 КУРС\Console.Thread\Console.Thread\bin\Debug\net8.0\Console.Thread.exe
+D:\3 КУРС\Console.Thread\Console.Thread\bin\Debug\net8.0\Console.Thread.deps.json
+D:\3 КУРС\Console.Thread\Console.Thread\bin\Debug\net8.0\Console.Thread.runtimeconfig.json
+D:\3 КУРС\Console.Thread\Console.Thread\bin\Debug\net8.0\Console.Thread.dll
+D:\3 КУРС\Console.Thread\Console.Thread\bin\Debug\net8.0\Console.Thread.pdb
+D:\3 КУРС\Console.Thread\Console.Thread\obj\Debug\net8.0\Console.Thread.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 КУРС\Console.Thread\Console.Thread\obj\Debug\net8.0\Console.Thread.AssemblyInfoInputs.cache
+D:\3 КУРС\Console.Thread\Console.Thread\obj\Debug\net8.0\Console.Thread.AssemblyInfo.cs
+D:\3 КУРС\Console.Thread\Console.Thread\obj\Debug\net8.0\Console.Thread.csproj.CoreCompileInputs.cache
+D:\3 КУРС\Console.Thread\Console.Thread\obj\Debug\net8.0\Console.Thread.dll
+D:\3 КУРС\Console.Thread\Console.Thread\obj\Debug\net8.0\refint\Console.Thread.dll
+D:\3 КУРС\Console.Thread\Console.Thread\obj\Debug\net8.0\Console.Thread.pdb
+D:\3 КУРС\Console.Thread\Console.Thread\obj\Debug\net8.0\Console.Thread.genruntimeconfig.cache
+D:\3 КУРС\Console.Thread\Console.Thread\obj\Debug\net8.0\ref\Console.Thread.dll
+D:\3 КУРС\Console.Thread\Console.Thread\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\3 КУРС\Console.Thread\Console.Thread\obj\Debug\net8.0\Console.Thread.csproj.AssemblyReference.cache
+D:\3 КУРС\Console.Thread\Console.Thread\obj\Debug\net8.0\Console.Thread.csproj.CopyComplete
+E:\3 КУРС\Console.Thread\Console.Thread\bin\Debug\net8.0\Console.Thread.exe
+E:\3 КУРС\Console.Thread\Console.Thread\bin\Debug\net8.0\Console.Thread.deps.json
+E:\3 КУРС\Console.Thread\Console.Thread\bin\Debug\net8.0\Console.Thread.runtimeconfig.json
+E:\3 КУРС\Console.Thread\Console.Thread\bin\Debug\net8.0\Console.Thread.dll
+E:\3 КУРС\Console.Thread\Console.Thread\bin\Debug\net8.0\Console.Thread.pdb
+E:\3 КУРС\Console.Thread\Console.Thread\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\3 КУРС\Console.Thread\Console.Thread\obj\Debug\net8.0\Console.Thread.csproj.AssemblyReference.cache
+E:\3 КУРС\Console.Thread\Console.Thread\obj\Debug\net8.0\Console.Thread.GeneratedMSBuildEditorConfig.editorconfig
+E:\3 КУРС\Console.Thread\Console.Thread\obj\Debug\net8.0\Console.Thread.AssemblyInfoInputs.cache
+E:\3 КУРС\Console.Thread\Console.Thread\obj\Debug\net8.0\Console.Thread.AssemblyInfo.cs
+E:\3 КУРС\Console.Thread\Console.Thread\obj\Debug\net8.0\Console.Thread.csproj.CoreCompileInputs.cache
+E:\3 КУРС\Console.Thread\Console.Thread\obj\Debug\net8.0\Console.Thread.csproj.CopyComplete
+E:\3 КУРС\Console.Thread\Console.Thread\obj\Debug\net8.0\Console.Thread.dll
+E:\3 КУРС\Console.Thread\Console.Thread\obj\Debug\net8.0\refint\Console.Thread.dll
+E:\3 КУРС\Console.Thread\Console.Thread\obj\Debug\net8.0\Console.Thread.pdb
+E:\3 КУРС\Console.Thread\Console.Thread\obj\Debug\net8.0\Console.Thread.genruntimeconfig.cache
+E:\3 КУРС\Console.Thread\Console.Thread\obj\Debug\net8.0\ref\Console.Thread.dll
